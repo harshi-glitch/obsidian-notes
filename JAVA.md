@@ -1,6 +1,6 @@
 ## Basics
 
-Always start with
+- Always start with
 
 ```java
 	public class "name" {
@@ -9,14 +9,14 @@ Always start with
 	}
 ```
 
-Print
+- Print
 
 ```java
 	System.out.println("helloworld");
 	System.out.print("helloworld");
 ```
 
-Variable
+- Variable
 
 	short
 	int
@@ -26,19 +26,5 @@ Variable
 	char
 	boolean
 
-Taking input
-	import 
-
-
-
-``` java
-class Main{
-	public static void main(String[] args){
-		int arr[]={1,2,3,4,5};
-		
-		for(int e : arr){ //for-each
-			System.out.println(e+""); //Output: 1 2 3 4 5
-		}
-	}
-}
-```
+- Taking input
+	i
